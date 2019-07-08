@@ -11,3 +11,8 @@
 # Docker build
 
 * docker build --tag wholesale .
+
+# Run docker
+
+* docker container run -d -p 8080:8080 wholesale
+
